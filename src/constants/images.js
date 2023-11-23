@@ -7,12 +7,12 @@ import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
-import html from '../assets/html.png';
+import html from '../assets/html.svg';
 import javascript from '../assets/javascript.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
-import react from '../assets/react.png';
+import react from '../assets/react.svg';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
@@ -25,7 +25,7 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
+import logo2 from '../assets/logo2.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -61,7 +61,7 @@ export default {
     about04,
     profile,
     circle,
-    logo,
+    logo2,
     adidas,
     amazon,
     asus,
